@@ -2,10 +2,8 @@
 
 Welcome to Sumo 2024 Robot 🌐,
 a cutting-edge tool
-designed to CHANGE_ME.
-Crafted with python,
-it's an actively developed project that is
-aimed at CHANGE_ME.
+designed to win the next sumo.
+Crafted with arduino and solidworks.
 This comprehensive guide is here to equip you with everything you need to use CHANGE_ME effectively.
 
 <div align="center">
