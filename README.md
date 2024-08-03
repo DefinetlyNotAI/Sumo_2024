@@ -10,7 +10,6 @@ This comprehensive guide is here to equip you with everything you need to use CH
 
 <div align="center">
     <a href="https://github.com/DefinetlyNotAI/Sumo_2024/issues"><img src="https://img.shields.io/github/issues/DefinetlyNotAI/Sumo_2024" alt="GitHub Issues"></a>
-    <a href="https://github.com/DefinetlyNotAI/Sumo_2024/tags"><img src="https://img.shields.io/github/v/tag/DefinetlyNotAI/Sumo_2024" alt="GitHub Tag"></a>
     <a href="https://github.com/DefinetlyNotAI/Sumo_2024/graphs/commit-activity"><img src="https://img.shields.io/github/commit-activity/t/DefinetlyNotAI/Sumo_2024" alt="GitHub Commit Activity"></a>
     <a href="https://github.com/DefinetlyNotAI/Sumo_2024/languages"><img src="https://img.shields.io/github/languages/count/DefinetlyNotAI/Sumo_2024" alt="GitHub Language Count"></a>
     <a href="https://github.com/DefinetlyNotAI/Sumo_2024/actions"><img src="https://img.shields.io/github/check-runs/DefinetlyNotAI/Sumo_2024/main" alt="GitHub Branch Check Runs"></a>
