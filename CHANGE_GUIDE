@@ -1,0 +1,28 @@
+
+
+Contibuting MD
+	Replace the following lines with your username and project for the links, 16, 87, 147, 154
+	Replace with your email at line 163
+	Press ctrl+f and find any line that says change me, change to suit your project
+
+GitHub Pages
+	For Now its your readme file, to change it, add a index.html file to the root folder and that will be your website
+
+CODE OF CONDUCT MD
+	Default COC, change it if you want
+
+.GitHub
+	ISSUE_TEMPLATE
+		bug report YML
+			Change all placeholders in lines 2, 5, 12, 14, 46
+		feature request YML
+			Change all placeholders in lines 2, 12, 14
+	codeql
+		codeql_analysis YML
+			Change line 9 with languages you want
+	Pull Request Template YML
+		Change all placeholders in lines 23
+
+	dependabot
+		You need to manually add this
+
