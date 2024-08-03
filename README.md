@@ -18,4 +18,10 @@ This comprehensive guide is here to equip you with everything you need to use CH
 
 ### Basic Usage
 
-CHANGE_ME
+Project that will include files for my next project sumo robot;
+
+The code is for 2 h-bridge called BTS which are controlled by an arduino nano on a expansion board
+
+Will use 3 JS40 and 3 JS200 IR sensors, 6 TITAN motors and 2 color sensors, photos will show most stuff
+
+This can be considered confedential
