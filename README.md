@@ -14,12 +14,7 @@ This comprehensive guide is here to equip you with everything you need to use CH
     <a href="https://github.com/DefinetlyNotAI/Sumo_2024"><img src="https://img.shields.io/github/repo-size/DefinetlyNotAI/Sumo_2024" alt="GitHub Repo Size"></a>
 </div>
 
-### Basic Usage
 
-Project that will include files for my next project sumo robot;
+For the parts, check the pdf file
 
-The code is for 2 h-bridge called BTS which are controlled by an arduino nano on a expansion board
-
-Will use 3 JS40 and 3 JS200 IR sensors, 6 TITAN motors and 2 color sensors, photos will show most stuff
-
-This can be considered confedential
+This is for the sumo competition in the HTU.
