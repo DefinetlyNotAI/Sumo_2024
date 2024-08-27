@@ -1,0 +1,5 @@
+Any 2 IR sensors that produce a binary value (1: On || 2: Off) based on detection
+	Place on PIN 2 & 3
+HC-05 BLE Module
+	Place on PIN TX & RX || 0 & 1
+Arduino Leonardo
